@@ -1,0 +1,12 @@
+# 모든 텍스트 파일 자동 변환
+* text=auto
+
+# C# 스크립트는 LF 유지
+*.cs text eol=lf
+
+# Unity 메타파일은 CRLF
+*.meta text eol=crlf
+
+# Unity 씬, 프리팹은 LF 유지
+*.unity text eol=lf
+*.prefab text eol=lf

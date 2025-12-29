@@ -1,0 +1,30 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity 자동 생성 메타파일
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta

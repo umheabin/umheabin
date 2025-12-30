@@ -1,3 +1,8 @@
+![Cap 2025-12-30 10-49-26](https://github.com/user-attachments/assets/228aba88-baaa-4729-8f2b-d9345e1343dd)
+![Cap 2025-12-30 10-49-32](https://github.com/user-attachments/assets/d527b7a4-66da-46b1-82c5-8ad74fba2642)
+![Cap 2025-12-30 10-49-39](https://github.com/user-attachments/assets/7e46a8d0-46e5-4200-893c-10ebc0f802d9)
+
+
 도시를 배경으로 한 카페 경영 게임임.
 
 커피 : ( 레벨 5부터 종류를 다양하게 )

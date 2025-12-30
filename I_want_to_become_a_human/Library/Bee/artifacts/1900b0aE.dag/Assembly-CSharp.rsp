@@ -345,6 +345,7 @@
 "Assets/Script/Cafe/IngredientGroup.cs"
 "Assets/Script/Cafe/IngredientInventory.cs"
 "Assets/Script/CameraRotateHold.cs"
+"Assets/Script/ChickAutoSitPerfect.cs"
 "Assets/Script/CMainMenu.cs"
 "Assets/Script/DialogManager.cs"
 "Assets/Script/FollowingCamera.cs"

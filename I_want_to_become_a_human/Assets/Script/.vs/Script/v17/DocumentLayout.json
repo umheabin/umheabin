@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitPerfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChickAutoSitPerfect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitSmooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChickAutoSitSmooth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitSimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChickAutoSitSimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChickAutoSit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\CMainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +74,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChickAutoSitSmooth.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitSmooth.cs",
+              "RelativeDocumentMoniker": "ChickAutoSitSmooth.cs",
+              "ToolTip": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitSmooth.cs",
+              "RelativeToolTip": "ChickAutoSitSmooth.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T00:57:38.744Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ChickAutoSitPerfect.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitPerfect.cs",
+              "RelativeDocumentMoniker": "ChickAutoSitPerfect.cs",
+              "ToolTip": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitPerfect.cs",
+              "RelativeToolTip": "ChickAutoSitPerfect.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T23:46:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "NewBehaviourScript.cs",
+              "ToolTip": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\NewBehaviourScript.cs",
+              "RelativeToolTip": "NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T22:51:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChickAutoSit.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSit.cs",
+              "RelativeDocumentMoniker": "ChickAutoSit.cs",
+              "ToolTip": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSit.cs",
+              "RelativeToolTip": "ChickAutoSit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T22:49:35.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ChickAutoSitSimple.cs",
               "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitSimple.cs",
               "RelativeDocumentMoniker": "ChickAutoSitSimple.cs",
               "ToolTip": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ChickAutoSitSimple.cs",
               "RelativeToolTip": "ChickAutoSitSimple.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T22:03:16.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T22:03:16.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CMainMenu.cs",
               "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\CMainMenu.cs",
               "RelativeDocumentMoniker": "CMainMenu.cs",
@@ -83,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CameraRotateHold.cs",
               "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\CameraRotateHold.cs",
               "RelativeDocumentMoniker": "CameraRotateHold.cs",
@@ -95,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\CameraController.cs",
               "RelativeDocumentMoniker": "CameraController.cs",
@@ -106,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FrontFollowCamera.cs",
               "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\FrontFollowCamera.cs",
               "RelativeDocumentMoniker": "FrontFollowCamera.cs",
@@ -118,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ThirdPersonCamera.cs",
               "DocumentMoniker": "C:\\UnityProjects\\umheabin\\I_want_to_become_a_human\\Assets\\Script\\ThirdPersonCamera.cs",
               "RelativeDocumentMoniker": "ThirdPersonCamera.cs",

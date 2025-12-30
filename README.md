@@ -1,16 +1,32 @@
-## Hi there 👋
+도시를 배경으로 한 카페 경영 게임임.
 
-<!--
-**umheabin/umheabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+커피 : ( 레벨 5부터 종류를 다양하게 )
 
-Here are some ideas to get you started:
+빵(케잌류 포함) 레벨 8부터
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+파르페 레벨 12부터
+
+쿠키 레벨 16부터
+
+레벨 20부터는 케잌에 토핑 다양하게 올리거나 만들어서 토핑 가능(토핑에 따라 추가 점수 획득)
+
+손님이 놀 수 있는 놀이방도 레벨에 따라 물건 배치 가능
+
+머리 위에 화살표가 뜨는데 손님이 주문한 음식을 볼 수 있음
+
+주스 22부터(그외 음식 추가 예정)
+
+손님이 먹는 음식을 도둑병아리가 훔쳐가져간다는 설정 추가
+
+손님이 원하는 인테리어 디자인을 맞추면 그만큼 포인트 얻어서 캐쉬로 전환 가능
+
+레벨 25부터는 식물을 키울 수 있음
+
+주스에 필요한 작물을 심거나 팔아서 돈을 벌 수 있음
+
+다른 장소에 가서 희귀 아이템을 얻을 수 있음
+
+그 외 다른 장소로 가서 많은 동물 캐릭터와 인간 캐릭터들을 만날 수 있다.
+
+이 모든 것을 아직 구현 중에 있지만 취업을 빨리 하고 싶으므로 얼른 만들어 보도록 하겠습니다.참고로 토종 한국인이며 인기국산3d게임 만드는게 꿈입니다.
+

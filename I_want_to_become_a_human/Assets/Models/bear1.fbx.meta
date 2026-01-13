@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 171d7afa3574b514ebb7fa0744dbe051
+guid: ebf4ee8d990ce6c4f9a5610657d13276
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -34,10 +34,10 @@ ModelImporter:
     clipAnimations:
     - serializedVersion: 16
       name: "\uACF0\uC21C\uC774\uC11C\uAE30"
-      takeName: "\uC544\uB9C8\uD29C\uC5B4|\uC544\uB9C8\uD29C\uC5B4"
-      internalID: -2092988427126327407
+      takeName: "\uC544\uB9C8\uD29C\uC5B4|\uACF0\uC21C\uC774\uAC77\uAE30"
+      internalID: 615137334874696550
       firstFrame: 0
-      lastFrame: 1
+      lastFrame: 0
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -63,10 +63,10 @@ ModelImporter:
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
       name: "\uACF0\uC21C\uC774\uAC77\uAE30"
-      takeName: "\uC544\uB9C8\uD29C\uC5B4|\uC544\uB9C8\uD29C\uC5B4Action"
-      internalID: 8100012866077981208
+      takeName: "\uC544\uB9C8\uD29C\uC5B4|\uACF0\uC21C\uC774\uC11C\uAE30"
+      internalID: -2975182405256667636
       firstFrame: 0
-      lastFrame: 18
+      lastFrame: 12
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

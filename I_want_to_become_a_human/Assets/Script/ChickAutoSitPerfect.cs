@@ -62,6 +62,8 @@ public class ChickAutoSitPerfect : MonoBehaviour
 
                     // NavMeshAgent 완전 비활성화
                     agent.enabled = false;
+
+                   
                 }
                 else
                 {

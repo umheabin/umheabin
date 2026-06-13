@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Assets",
+    "\\Assets\\Editor",
     "\\Assets\\Script",
+    "\\Assets\\Script\\BulletPoint",
     "\\Assets\\Script\\Cafe"
   ],
   "PreviewInSolutionExplorer": false
